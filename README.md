@@ -12,13 +12,13 @@
 
 A linguagem de definição de dados é a sub-língua responsável pela definição da forma como os dados são estruturados em um banco de dados. Em SQL, isto corresponde à manipulação de tabelas através do `CREATE TABLE`, `ALTER TABLE`, e `DROP TABLE`.
 
-**Folder:** [Data Definition Language DDL](https://github.com/Baku-Stark/Postgres/tree/main/Data%20Definition%20Language_DDL)
+**Folder:** [Data Definition Language DDL](https://github.com/Baku-Stark/MySQL/tree/main/Data%20Definition%20Language_DDL)
 
 ## Data Manipulation Language (DML)
 
 A **Data Manipulation Language** é o sub idioma responsável pela adição, edição ou exclusão de dados de um banco de dados. Em SQL, isto corresponde ao `INSERT`, `UPDATE`, e `DELETE`.
 
-**Folder:** [Data Manipulation Language_DML](https://github.com/Baku-Stark/Postgres/tree/main/Data%20Manipulation%20Language_DML)
+**Folder:** [Data Manipulation Language_DML](https://github.com/Baku-Stark/MySQL/tree/main/Data%20Manipulation%20Language_DML)
 
 ----
 
